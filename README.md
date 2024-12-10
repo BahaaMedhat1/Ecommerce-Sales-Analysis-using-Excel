@@ -47,7 +47,7 @@ The dataset used for this dashboard contains eCommerce transaction records, incl
 - Despite overall growth, the profit margin decreased slightly (-5.15%).
 
 ## How to Use
-1.Download the Excel file [here](./Ecommerce%20Sales%20Analysis.xlsx).
+1. Download the Excel file [here](./Ecommerce Sales Analysis.xlsx).
 2. Open the file in Microsoft Excel (compatible with versions supporting slicers and pivot tables).
 3. Use the slicers on the dashboard to filter data by Region, Segment, or Year.
 4. Analyze key metrics and visualizations to understand sales performance.
