@@ -38,7 +38,7 @@ The **Ecommerce Sales Analysis Dashboard** is a dynamic and interactive Excel-ba
   - Slicers for interactive filtering
 
 ## Data Source
-The dataset used for this dashboard contains eCommerce transaction records, including details about sales, profit, quantity, and orders across various categories, subcategories, regions, and time periods.
+The dataset used for this dashboard contains Ecommerce transaction records, including details about sales, profit, quantity, and orders across various categories, subcategories, regions, and time periods.
 
 ## Insights
 - The highest profit is derived from the **Technology** category ($145.45K).
@@ -47,7 +47,7 @@ The dataset used for this dashboard contains eCommerce transaction records, incl
 - Despite overall growth, the profit margin decreased slightly (-5.15%).
 
 ## How to Use
-1. Download the Excel file [here](./Ecommerce Sales Analysis.xlsx).
+1. Download the Excel file [here](./https://github.com/BahaaMedhat1/Ecommerce-Sales-Analysis-using-Excel/blob/main/Ecommerce%20Sales%20Analysis.xlsx).
 2. Open the file in Microsoft Excel (compatible with versions supporting slicers and pivot tables).
 3. Use the slicers on the dashboard to filter data by Region, Segment, or Year.
 4. Analyze key metrics and visualizations to understand sales performance.
